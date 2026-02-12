@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HS4YX6QPRM4=",
+  "dgSpecHash": "4SkHtPJevlM=",
   "success": true,
-  "projectFilePath": "/workspaces/Tarea_dia_4_c/EjerciciosCS/EjerciciosCS.csproj",
+  "projectFilePath": "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/EjerciciosCS.csproj",
   "expectedPackageFiles": [
     "/home/codespace/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",

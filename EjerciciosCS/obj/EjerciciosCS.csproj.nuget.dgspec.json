@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/Tarea_dia_4_c/EjerciciosCS/EjerciciosCS.csproj": {}
+    "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/EjerciciosCS.csproj": {}
   },
   "projects": {
-    "/workspaces/Tarea_dia_4_c/EjerciciosCS/EjerciciosCS.csproj": {
+    "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/EjerciciosCS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/Tarea_dia_4_c/EjerciciosCS/EjerciciosCS.csproj",
+        "projectUniqueName": "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/EjerciciosCS.csproj",
         "projectName": "EjerciciosCS",
-        "projectPath": "/workspaces/Tarea_dia_4_c/EjerciciosCS/EjerciciosCS.csproj",
+        "projectPath": "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/EjerciciosCS.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/Tarea_dia_4_c/EjerciciosCS/obj/",
+        "outputPath": "/workspaces/cuarta-tarea-ferrerasjavier-hash/EjerciciosCS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
